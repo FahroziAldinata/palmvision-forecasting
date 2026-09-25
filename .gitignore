@@ -7,3 +7,5 @@ __pycache__/
 .venv/
 env/
 venv/
+app/storage/model_registry/*
+!app/storage/model_registry/.gitkeep
